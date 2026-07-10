@@ -1,0 +1,4 @@
+interface:
+  display_name: "霓虹壁纸"
+  short_description: "把上传照片简化重绘成少色块低细节的九十年代蓝橙霓虹壁纸"
+  default_prompt: "使用 $neon-wallpaper 简化这张照片，重绘成少色块、低细节的蓝调公寓壁纸。"
